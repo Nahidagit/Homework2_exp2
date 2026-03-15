@@ -1,0 +1,7 @@
+build/
+devel
+devel/
+*.pyc
+*.swp
+*.swo
+.DS_Store
